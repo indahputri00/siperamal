@@ -1,0 +1,1 @@
+SQLSTATE[HY000]: General error: 1364 Field 'file_suratkeluar' doesn't have a default value (SQL: insert into `tb_suratkeluar` (`no_suratkeluar`, `no_agenda`, `tujuan_surat`, `kode_klasifikasi`, `isi_surat`, `tgl_surat`, `tgl_keluar`, `ket_suratkeluar`) values (fffffff, gggggggg, eeeeeeeeeeee, 194, gggggggg, 2022-06-28, 2022-06-28, ?))
